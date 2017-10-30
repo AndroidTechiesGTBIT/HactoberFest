@@ -1,2 +1,2 @@
 # Ashish Gulati
-more at: (ashishgulati.xyz)
+more at: <www.ashishgulati.xyz>
