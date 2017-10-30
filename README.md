@@ -15,7 +15,7 @@ Add your github username to "Volunteer_Nomination.md" file and we will add you t
 - Create a new branch for your modifications (ie. ```git branch new-user``` and check it out ```git checkout new-user``` and ``` git checkout -b new-user```)
 - Tell us about yourself in a file of your name.md
 - If you want to join the organization on github, add your github username to Volunteer_Nomination.md
-- Add your file (```git add -name.md```),(```git add -Volunteer_Nomination.md```), commit (```git commit -m "added myself"```) and push (```git push origin new-user```)
+- Add your file (```git add name.md```),(```git add Volunteer_Nomination.md```), commit (```git commit -m "added myself"```) and push (```git push origin new-user```)
 - Create a pull request
 - Star this repository
 - Wait for Pull Request to merge
