@@ -1,4 +1,4 @@
-# HactoberFest
+# HacktoberFest
 ## Give back to Open source this october!
 
 This project is perfect for your first pull request.
