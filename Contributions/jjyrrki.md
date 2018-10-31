@@ -1,0 +1,2 @@
+# Jyrrkki
+Starting Android developer
