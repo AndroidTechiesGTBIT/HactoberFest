@@ -1,5 +1,4 @@
 # Name
 Sonu Kumar
 # interest
-Android Development
-Algorithms
+Android Development and Data structure 
