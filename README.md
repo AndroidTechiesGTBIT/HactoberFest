@@ -5,7 +5,7 @@ This project is perfect for your first pull request.
 Collaborate and nominate yourself to become active volunteer of AndroidTechies community.
 
 ## What To Do
-Add your name and something about yourself to a new "yourname.md" file at the Contributions folder (See instructions for reference)
+Add your name and something about yourself to a new "yourname.md" file in the Contributions folder (See instructions for reference)
 Add your github username to "Volunteer_Nomination.md" file and we will add you to the Android Techies organization. 
 
 ## Instructions-
