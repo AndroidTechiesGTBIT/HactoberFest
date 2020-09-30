@@ -20,6 +20,7 @@ Add your github username to "Volunteer_Nomination.md" file and we will add you t
 - Star this repository
 - Wait for Pull Request to merge
 - Celebrate - you've done your first pull request!!
+- Good Luck
 
 
 Read about markdown syntax here
